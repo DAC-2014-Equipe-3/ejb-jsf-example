@@ -1,0 +1,4 @@
+*.class
+sujet2/sujet2-ear/target/*
+sujet2/sujet2-ejb/target/*
+sujet2/sujet2-web/target/*
